@@ -56,4 +56,16 @@ Model repository for machine learning division
 - Serve the Flask app by typing flask run
 - It will run on http://192.168.1.8:8080
 
-![alt text](?raw=true)
+![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Deploy%20Lokal.png?raw=true)
+
+# How to predict image with Postman
+- Open Postman
+- Enter URL request bar with http://192.168.1.8:8080/predict
+- Select method POST
+- Make sure the hearders Key section: Content-Type and Value: application/json (Type)
+- Go to Body tab and select raw
+Input the nama_makanan": "up to you",
+  "portion_size": Up to you " that you want predict as a value of the key
+Send the request
+
+![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Postman.jpgraw=true)
