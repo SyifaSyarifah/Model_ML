@@ -4,7 +4,7 @@
 The model we created is a nutrition prediction machine learning, using linear regression for its concept. With the theme of Nutrition, our team presents the predicted nutritional values based on the 2017 Indonesian Food Composition Table data as TKPI 2017.
 
 
-# 1. Project Planning and Setup
+# Project Planning and Setup
 Goals:Objective Calculate the nutrients entering the body, through each food input to generate nutritional prediction information.
 Users: End user
 Evaluation  : Using Random Forest Accuracy tuned for accuracy and validation. Predicting food through the designed modelling stage. Then produce the result of the testing model.
@@ -13,7 +13,6 @@ Evaluation  : Using Random Forest Accuracy tuned for accuracy and validation. Pr
 
 [Notebook modeling building](https://github.com/SyifaSyarifah/Model_ML/blob/main/ML_Model_Regresi_for_Group.ipynb)
 
----
 
 # Dataset Resources
 
