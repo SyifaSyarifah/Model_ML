@@ -19,7 +19,6 @@ Evaluation  : Using Random Forest Accuracy tuned for accuracy and validation. Pr
 
 [Dataset Nutrisi after cleaning from TKPI 2017](https://github.com/SyifaSyarifah/Model_ML/blob/main/dataset/Dataset_Giziwise.csv)
 
----
 
 # Result Model
 Model repository for machine learning division
