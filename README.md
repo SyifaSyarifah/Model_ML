@@ -68,4 +68,4 @@ Input the nama_makanan": "up to you",
   "portion_size": Up to you " that you want predict as a value of the key
 Send the request
 
-![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Postman.jpgraw=true)
+![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Postman.jpg?raw=true)
