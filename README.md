@@ -11,11 +11,13 @@ Evaluation  : Using Random Forest Accuracy tuned for accuracy and validation. Pr
 
 # Model Building's Notebook
 
+[Notebook modeling building](https://github.com/SyifaSyarifah/Model_ML/blob/main/ML_Model_Regresi_for_Group.ipynb)
 
 ---
 
 # Dataset Resources
 
+[Dataset Nutrisi after cleaning from TKPI 2017](https://github.com/SyifaSyarifah/Model_ML/blob/main/dataset/Dataset_Giziwise.csv)
 
 ---
 
