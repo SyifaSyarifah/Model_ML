@@ -1,3 +1,4 @@
+![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/GiziWiseBanner.jpg?raw=true)
 # Machine Learning Documentation
 ### From Team Giziwise
 
