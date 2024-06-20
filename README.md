@@ -58,7 +58,7 @@ Model repository for machine learning division
 
 ![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Deploy%20Lokal.png?raw=true)
 
-# How to predict image with Postman
+# How to predict nutrisi value with Postman
 - Open Postman
 - Enter URL request bar with http://192.168.1.8:8080/predict
 - Select method POST
@@ -69,3 +69,16 @@ Input the nama_makanan": "up to you",
 Send the request
 
 ![alt text](https://github.com/SyifaSyarifah/Model_ML/blob/main/Postman.jpg?raw=true)
+
+# Requirements
+Library used in this project:
+
+numpy==1.25.2
+pandas==2.0.3
+scikit-learn==1.2.2
+joblib==1.4.2
+flask==2.0.3
+functions-framework==3.0.0
+werkzeug==2.0.3
+google-cloud-storage>=1.44.0
+
