@@ -73,12 +73,12 @@ Send the request
 # Requirements
 Library used in this project:
 
-numpy==1.25.2
-pandas==2.0.3
-scikit-learn==1.2.2
-joblib==1.4.2
-flask==2.0.3
-functions-framework==3.0.0
-werkzeug==2.0.3
-google-cloud-storage>=1.44.0
+-numpy==1.25.2
+-pandas==2.0.3
+-scikit-learn==1.2.2
+-joblib==1.4.2
+-flask==2.0.3
+-functions-framework==3.0.0
+-werkzeug==2.0.3
+-google-cloud-storage>=1.44.0
 
